@@ -73,6 +73,25 @@
 
 ## ⚙️ 사용된 기술
 
+**[ Front-end ]**
+
+- **React**
+  
+  - 컴포넌트 기반 아키텍처와 가상 DOM을 통한 효율적인 렌더링으로 사용자 인터페이스를 구축
+- **Recoil**
+  
+  - Client-side 전역에서 필요한 data를 관리
+    
+  - 코드의 양 간소화
+    
+- **Type-script** : 컴파일 과정에서 타입을 지정해 컴파일 에러를 예방하며 디버깅을 용이하게 하기 위해 사용
+  
+- **Tailwind**
+  
+  - 빌드 시에 사용하지 않는 클래스를 제거하여 번들링 사이즈 최적화
+    
+  - 반응형 디자인 구현
+
 **[ BACK END ]**
 
 - **Spring Boot** : Run WIth Me Project의 전반적인 Rest Controller 구현.
